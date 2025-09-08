@@ -1,3 +1,4 @@
 #!/bin/bash
 
 echo "This is jenkin test automation script"
+echo "This is the second line of a file"
